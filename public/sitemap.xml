@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/privacy</loc></url>
+  <url><loc>/terms</loc></url>
+  <url><loc>/services/mobile-app-development</loc></url>
+  <url><loc>/services/web-development</loc></url>
+  <url><loc>/services/backend-development</loc></url>
+  <url><loc>/services/custom-software-development</loc></url>
+  <url><loc>/services/white-label-app-development</loc></url>
+  <url><loc>/services/ecommerce-development</loc></url>
+  <url><loc>/services/api-integration</loc></url>
+  <url><loc>/services/database-development</loc></url>
+  <url><loc>/services/application-maintenance</loc></url>
+  <url><loc>/services/app-publishing-deployment</loc></url>
+  <url><loc>/services/mvp-development</loc></url>
+  <url><loc>/services/saas-development</loc></url>
+</urlset>
