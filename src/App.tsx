@@ -7,7 +7,7 @@ import { services, faqs, technologies } from './data'
 type Theme = 'dark' | 'light'
 const BUSINESS_EMAIL = 'arunpradeepvn@gmail.com'
 const BUSINESS_PHONE = '+91 6369140376'
-const WHATSAPP_URL = 'https://wa.me/916369140376'
+const WHATSAPP_URL = `https://wa.me/916369140376?text=${encodeURIComponent("Hi ARUN, I'm interested in discussing a project. Please get in touch with me.")}`
 const BUSINESS_LOCATION = 'Paramakudi'
 const SOCIAL_LINKS = {
   linkedin: 'https://www.linkedin.com/in/arunpradeep-vn-b951261ab',
