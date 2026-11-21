@@ -165,3 +165,5 @@ body{background:var(--bg);color:var(--text);font-size:15px;letter-spacing:-.01em
 .brand img{display:block;width:156px;height:auto}
 @media(max-width:600px){.brand img{width:136px}}
 :root[data-theme=light] .service-art,:root[data-theme=light] .detail-art{filter:brightness(1.14) saturate(.88)}
+.testimonial-section{background:var(--bg)}.testimonial-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.testimonial-card{position:relative;min-height:250px;padding:27px;border:1px solid var(--line);border-radius:14px;background:var(--bg-card)}.testimonial-quote-mark{font:52px/1 var(--display);color:#ff927b}.testimonial-card blockquote{margin:14px 0 28px;font:22px/1.35 var(--display);letter-spacing:-.02em}.testimonial-attribution{display:grid;gap:5px}.testimonial-attribution span{font-size:11px;font-weight:700}.testimonial-attribution small{font:8px var(--mono);letter-spacing:.08em;color:var(--muted)}
+@media(max-width:760px){.testimonial-grid{grid-template-columns:1fr}.testimonial-card{min-height:unset}}
